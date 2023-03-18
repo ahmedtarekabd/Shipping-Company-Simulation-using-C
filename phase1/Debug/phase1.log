@@ -1,0 +1,34 @@
+﻿  CancelEvent.cpp
+  Cargos.cpp
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Cargos.cpp(204,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Company.cpp
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(141,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(160,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(176,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(209,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(214,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(870,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(895,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(927,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(960,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(990,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(1025,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Event.cpp
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Event.cpp(32,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PreparationEvent.cpp
+  PromoteEvent.cpp
+  main.cpp
+  Time.cpp
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Time.cpp(104,9): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Time.cpp(111,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Trucks.cpp
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Trucks.cpp(24,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Trucks.cpp(274,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Trucks.cpp(292,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Trucks.cpp(336,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Trucks.cpp(347,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  UI.cpp
+  Generating Code...
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Trucks.cpp(240): warning C4715: 'Trucks::getNumberOfTrucks': not all control paths return a value
+E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\phase1\Company.cpp(1086): warning C4715: 'Company::getType': not all control paths return a value
+  phase1.vcxproj -> E:\College\1- Sophomore\Semester 2\Data Structure\Projects\Shipping Company\Phase2 Submition\Phase1\Debug\shipping_company.exe
